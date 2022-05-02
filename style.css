@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lora:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,800;1,700;1,800&display=swap");
 
 .fundo {
   background-image: url("img/background-foods-v4.png");
@@ -23,6 +24,14 @@
 
 .espaço_linha {
   line-height: 3rem;
+}
+
+.titulo {
+  font-size: 1.9rem;
+  font-family: "Exo 2", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+  margin-top: 60px;
 }
 
 /* ----------HEADER---------- */
@@ -76,7 +85,7 @@ h2 {
 .box_conteudo {
   width: 72%;
   max-width: 940px;
-  height: 1500px;
+  height: 2000px;
   margin: auto auto;
   background-color: white;
   border-radius: 8px;
@@ -100,6 +109,7 @@ a {
 
 .navegacao {
   margin-bottom: 50px;
+  margin-left: -26px;
 }
 
 .perfil img {
@@ -107,4 +117,40 @@ a {
   height: 140px;
   width: 140px;
   margin-right: 20px;
+}
+
+.lista {
+  line-height: 3rem;
+  padding-top: 10px;
+}
+
+ul {
+  padding-left: 26px;
+}
+
+.paes img {
+  float: left;
+  height: 240px;
+  width: 448px;
+  margin-right: 20px;
+  margin-left: 12px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.paes2 img {
+  float: left;
+  height: 240px;
+  width: 448px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.fotos {
+  width: 72%;
+  max-width: 940px;
+  height: 520px;
+  margin: auto auto;
+  padding: 60px;
+  display: inline;
 }
