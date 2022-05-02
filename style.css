@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lora:wght@400;500;600;700&display=swap");
+
+.fundo {
+  background-image: url("img/background-foods-v4.png");
+  background-attachment: fixed;
+  background-color: #2e2d4c;
+  padding: 2px;
+}
+
+/* ----------FONTES---------- */
+
+.fonte_media {
+  font-size: 1.7rem;
+  font-family: "Lora", serif;
+  font-weight: bold;
+}
+
+.fonte_grande {
+  font-size: 3.2rem;
+  font-family: "Lora", serif;
+  font-weight: bold;
+}
+
+.espaço_linha {
+  line-height: 3rem;
+}
+
+/* ----------HEADER---------- */
+
+.superior {
+  width: 72%;
+  height: 616px;
+  padding: 0 14%;
+  text-align: center;
+}
+
+.triang_fundo {
+  background-color: white;
+  width: 100px;
+  height: 100px;
+  margin-left: calc(50% - 100px);
+  margin-top: -52px;
+  margin-bottom: 80px;
+  transform: translateX(50%) rotate(45deg);
+}
+
+.logo img {
+  height: 180px;
+  margin-bottom: 30px;
+}
+
+.registred img {
+  position: absolute;
+  top: 15px;
+  height: 28px;
+  margin-bottom: 30px;
+  margin-left: -13px;
+}
+
+h1,
+h2 {
+  font-size: 30px;
+  padding-bottom: 12px;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: #c0bcc9;
+}
+
+/* ----------MAIN---------- */
+
+.box_conteudo {
+  width: 72%;
+  max-width: 940px;
+  height: 1500px;
+  margin: auto auto;
+  background-color: white;
+  border-radius: 8px;
+  padding: 60px;
+  color: #4d3c64;
+}
+
+.nav_bar {
+  display: inline-block;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  padding-right: 25px;
+  font-weight: bold;
+  line-height: 3rem;
+}
+
+a {
+  text-decoration: none;
+  color: #a19daa;
+}
+
+.navegacao {
+  margin-bottom: 50px;
+}
+
+.perfil img {
+  float: left;
+  height: 140px;
+  width: 140px;
+  margin-right: 20px;
+}
