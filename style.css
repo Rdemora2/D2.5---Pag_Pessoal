@@ -88,14 +88,14 @@ h2 {
   display: inline-block;
   font-size: 1.2rem;
   text-transform: uppercase;
-  padding-right: 25px;
+  padding-right: 22px;
   font-weight: bold;
   line-height: 3rem;
 }
 
 a {
   text-decoration: none;
-  color: #a19daa;
+  color: #b4b1bd;
 }
 
 .navegacao {
