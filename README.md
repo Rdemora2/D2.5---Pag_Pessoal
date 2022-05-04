@@ -1,4 +1,4 @@
-Projeto de uma página pessoal desenvolvida durante estudos de HTML e CSS
+Projeto de uma pagina de blog desenvolvida durante estudos de HTML e CSS
 
 LINK DO PROJETO:
 
